@@ -4,7 +4,7 @@ st.set_page_config(page_title="Fantasy Football Playoff Edition", page_icon="üè
 st.header("**Fantasy Football Playoff Edition**", divider='gray')
 # st.sidebar.markdown("# Team Selection")
 
-images = ["Playoff_Football_Dashboard/images/players.jpg", "Playoff_Football_Dashboard/images/points_25.png"]
+images = ["images/players.jpg", "images/points_25.png"]
 captions = ["Available players", "Scoring system."]
 
 # st.image(images, caption=captions, use_column_width=True)
