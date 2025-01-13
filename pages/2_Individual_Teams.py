@@ -15,7 +15,7 @@ with col1:
 with col2:
     st.text('Total Points: ')
     df2 = st.session_state.df.groupby(['Manager']).sum('Total Points').reset_index() 
-    st.write(df2[df2["Manager"] == option]["Total Points"].values[0])
+    st.metric("", df2[df2["Manager"] == option]["Total Points"].values[0])
 
 st.divider()
 
