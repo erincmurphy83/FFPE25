@@ -15,7 +15,7 @@ df1 = st.session_state.df.groupby('Manager').size().reset_index(name='Players Re
 
 # df1 = df.groupby('Manager')["Division"].sum().reset_index(name='Players Remaining')
 
-df2 = st.session_state.total_points_df.groupby(['Manager']).sum('Total_points')  #.reset_index()
+df2 = st.session_state.total_points_df.groupby(['Manager']).sum('Total Points')  #.reset_index()
 df2 = df2.merge(df1, on='Manager').sort_values(by='Total Points', ascending=False) 
 
 st.dataframe(df2, hide_index=True, height=750, use_container_width=True)
