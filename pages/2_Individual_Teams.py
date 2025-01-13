@@ -21,4 +21,4 @@ st.divider()
 
 df1 = st.session_state.df[st.session_state.df["Manager"] == option].loc[:, st.session_state.df.columns != 'Manager']
 
-st.dataframe(df1, hide_index=True, height=750, use_container_width=True)
+st.dataframe(df1, hide_index=True, height=550, use_container_width=True)
