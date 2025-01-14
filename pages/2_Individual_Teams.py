@@ -12,12 +12,16 @@ col1, col2 = st.columns(2)
 with col1:
     st.text("Select a Manager: ")   
 
-    option = st.selectbox('',
-                          sorted(df['Manager'].unique()) )
+    option = st.selectbox('Select a Manager',
+                          sorted(.df['Manager'].unique()),
+                          label_visibility="collapsed")
+    
 with col2:
     st.text('Total Points: ')
     df2 = df.groupby(['Manager']).sum('Total Points').reset_index() 
-    st.metric("", df2[df2["Manager"] == option]["Total Points"].values[0])
+    st.metric("Total Points", 
+              df2[df2["Manager"] == option]["Total Points"].values[0],
+              label_visibility="collapsed")
 
 st.divider()
 
