@@ -13,7 +13,7 @@ with col1:
     st.text("Select a Manager: ")   
 
     option = st.selectbox('Select a Manager',
-                          sorted(.df['Manager'].unique()),
+                          sorted(df['Manager'].unique()),
                           label_visibility="collapsed")
     
 with col2:
