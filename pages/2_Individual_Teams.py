@@ -21,7 +21,7 @@ with col2:
 
 st.divider()
 
-df1 = st.session_state.df[st.session_state.df["Manager"] == option].loc[:, st.session_state.df.columns != 'Manager']
+df1 = df[df["Manager"] == option].loc[:, df.columns != 'Manager']
 
 col_order = ['Team', 'Player', 'Total Points', 'Total_WC', 'Total_Div', 'Total_Conf', 'Total_SB']
 df1 = df1[col_order]
