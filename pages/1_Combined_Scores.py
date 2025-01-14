@@ -10,7 +10,7 @@ df1 = df1.groupby('Manager')["Division"].sum().reset_index(name='Players Remaini
 df2 = total_points_df.groupby(['Manager']).sum('Total Points')  #.reset_index()
 df2 = df2.merge(df1, on='Manager').sort_values(by='Total Points', ascending=False) 
 
-# col_order = ['Manager', 'Players Remaining', 'Total Points', 'Total_WC', 'Total_Div', 'Total_Conf', 'Total_SB']
-# df2 = df2[col_order]
+col_order = ['Manager', 'Players Remaining', 'Total Points', 'Total_WC', 'Total_Div', 'Total_Conf', 'Total_SB']
+df2 = df2[col_order]
 
 st.dataframe(df2, hide_index=True, height=750, use_container_width=True)
