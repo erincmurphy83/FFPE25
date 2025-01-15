@@ -71,7 +71,7 @@
 69,Silver Papa,qb2,Jared Goff,DET,False,True,False,False
 70,Stat-O-Matic | Chris K,qb2,Patrick Mahomes,KC,False,True,False,False
 71,Tanja,qb2,Jared Goff,DET,False,True,False,False
-72,Turd Ferguson,qb2,Sam Darnold,MIN,True,True,False,False
+72,Turd Ferguson,qb2,Sam Darnold,MIN,True,False,False,False
 73,Tutt-Nation,qb2,Patrick Mahomes,KC,False,True,False,False
 74,2-10 Hahaha,qb3,Matt Stafford,LAR,True,True,False,False
 75,A G-Thang,qb3,Matt Stafford,LAR,True,True,False,False
@@ -147,8 +147,8 @@
 145,Tanja,rb1,James Cook,BUF,True,True,False,False
 146,Turd Ferguson,rb1,Derrick Henry,BAL,True,True,False,False
 147,Tutt-Nation,rb1,Jahmyr Gibbs,DET,False,True,False,False
-148,2-10 Hahaha,rb2,Aaron Jones,MIN,True,True,False,False
-149,A G-Thang,rb2,Aaron Jones,MIN,True,True,False,False
+148,2-10 Hahaha,rb2,Aaron Jones,MIN,True,False,False,False
+149,A G-Thang,rb2,Aaron Jones,MIN,True,False,False,False
 150,Abarrett35,rb2,Joe Mixon,HOU,True,True,False,False
 151,Alexander’s Raiders,rb2,Joe Mixon,HOU,True,True,False,False
 152,Ball Too Well (Allie’s Version),rb2,Josh Jacobs,GB,True,False,False,False
@@ -158,31 +158,31 @@
 156,Erin M | HearMeowt,rb2,Isiah Pacheco,KC,False,True,False,False
 157,Ethan R,rb2,Isiah Pacheco,KC,False,True,False,False
 158,F.O.G.| Joe Pino,rb2,Isiah Pacheco,KC,False,True,False,False
-159,Fantasy Fumble Funnies,rb2,Aaron Jones,MIN,True,True,False,False
+159,Fantasy Fumble Funnies,rb2,Aaron Jones,MIN,True,False,False,False
 160,Gage ,rb2,Josh Jacobs,GB,True,False,False,False
-161,Griffin Stanley,rb2,Aaron Jones,MIN,True,True,False,False
+161,Griffin Stanley,rb2,Aaron Jones,MIN,True,False,False,False
 162,Hawk Tua | Brock Michalek ,rb2,Josh Jacobs,GB,True,False,False,False
 163,Karrtoons,rb2,Isiah Pacheco,KC,False,True,False,False
-164,Liebersquad,rb2,Aaron Jones,MIN,True,True,False,False
-165,Matt’s last chance at fantasy,rb2,Aaron Jones,MIN,True,True,False,False
+164,Liebersquad,rb2,Aaron Jones,MIN,True,False,False,False
+165,Matt’s last chance at fantasy,rb2,Aaron Jones,MIN,True,False,False,False
 166,Maye Day,rb2,Josh Jacobs,GB,True,False,False,False
 167,McSRQ,rb2,Isiah Pacheco,KC,False,True,False,False
 168,Miami Mike Goes Detroit,rb2,Josh Jacobs,GB,True,False,False,False
 169,Michaels motivated sea'men,rb2,Kyren Williams,LAR,True,True,False,False
-170,Murphys,rb2,Aaron Jones,MIN,True,True,False,False
-171,Mythical Hail Marys,rb2,Aaron Jones,MIN,True,True,False,False
+170,Murphys,rb2,Aaron Jones,MIN,True,False,False,False
+171,Mythical Hail Marys,rb2,Aaron Jones,MIN,True,False,False,False
 172,New Year |  Same Me | Wesley ,rb2,Josh Jacobs,GB,True,False,False,False
 173,Nick Dakuginow,rb2,Isiah Pacheco,KC,False,True,False,False
 174,Pirates Life For Me ,rb2,Josh Jacobs,GB,True,False,False,False
 175,Sarasota Supreme Team ,rb2,Josh Jacobs,GB,True,False,False,False
 176,See deez TDs,rb2,Kyren Williams,LAR,True,True,False,False
 177,Shaun McElroy,rb2,Kyren Williams,LAR,True,True,False,False
-178,Shot in the Dark / JC,rb2,Aaron Jones,MIN,True,True,False,False
+178,Shot in the Dark / JC,rb2,Aaron Jones,MIN,True,False,False,False
 179,Show Me Your TDs!/Richard Silva,rb2,Isiah Pacheco,KC,False,True,False,False
-180,Silver Papa,rb2,Aaron Jones,MIN,True,True,False,False
+180,Silver Papa,rb2,Aaron Jones,MIN,True,False,False,False
 181,Stat-O-Matic | Chris K,rb2,Kyren Williams,LAR,True,True,False,False
-182,Tanja,rb2,Aaron Jones,MIN,True,True,False,False
-183,Turd Ferguson,rb2,Aaron Jones,MIN,True,True,False,False
+182,Tanja,rb2,Aaron Jones,MIN,True,False,False,False
+183,Turd Ferguson,rb2,Aaron Jones,MIN,True,False,False,False
 184,Tutt-Nation,rb2,Josh Jacobs,GB,True,False,False,False
 185,2-10 Hahaha,rb3,Rachaad White,TB,True,False,False,False
 186,A G-Thang,rb3,Brian Robinson,WAS,True,True,False,False
@@ -258,7 +258,7 @@
 256,Tanja,rb4,Ray Davis,BUF,True,True,False,False
 257,Turd Ferguson,rb4,Jaleel McLaughlin,DEN,True,False,False,False
 258,Tutt-Nation,rb4,Craig Reynolds,DET,False,True,False,False
-259,2-10 Hahaha,wr1,Justin Jefferson,MIN,True,True,False,False
+259,2-10 Hahaha,wr1,Justin Jefferson,MIN,True,False,False,False
 260,A G-Thang,wr1,Mike Evans,TB,True,False,False,False
 261,Abarrett35,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 262,Alexander’s Raiders,wr1,Mike Evans,TB,True,False,False,False
@@ -271,12 +271,12 @@
 269,F.O.G.| Joe Pino,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 270,Fantasy Fumble Funnies,wr1,A.J. Brown,PHI,True,True,False,False
 271,Gage ,wr1,Amon-Ra St. Brown,DET,False,True,False,False
-272,Griffin Stanley,wr1,Justin Jefferson,MIN,True,True,False,False
+272,Griffin Stanley,wr1,Justin Jefferson,MIN,True,False,False,False
 273,Hawk Tua | Brock Michalek ,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 274,Karrtoons,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 275,Liebersquad,wr1,A.J. Brown,PHI,True,True,False,False
 276,Matt’s last chance at fantasy,wr1,Amon-Ra St. Brown,DET,False,True,False,False
-277,Maye Day,wr1,Justin Jefferson,MIN,True,True,False,False
+277,Maye Day,wr1,Justin Jefferson,MIN,True,False,False,False
 278,McSRQ,wr1,Mike Evans,TB,True,False,False,False
 279,Miami Mike Goes Detroit,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 280,Michaels motivated sea'men,wr1,Amon-Ra St. Brown,DET,False,True,False,False
@@ -290,13 +290,13 @@
 288,Shaun McElroy,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 289,Shot in the Dark / JC,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 290,Show Me Your TDs!/Richard Silva,wr1,Amon-Ra St. Brown,DET,False,True,False,False
-291,Silver Papa,wr1,Justin Jefferson,MIN,True,True,False,False
+291,Silver Papa,wr1,Justin Jefferson,MIN,True,False,False,False
 292,Stat-O-Matic | Chris K,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 293,Tanja,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 294,Turd Ferguson,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 295,Tutt-Nation,wr1,Amon-Ra St. Brown,DET,False,True,False,False
 296,2-10 Hahaha,wr2,Khalil Shakir,BUF,True,True,False,False
-297,A G-Thang,wr2,Jordan Addison,MIN,True,True,False,False
+297,A G-Thang,wr2,Jordan Addison,MIN,True,False,False,False
 298,Abarrett35,wr2,Puka Nacua,LAR,True,True,False,False
 299,Alexander’s Raiders,wr2,Khalil Shakir,BUF,True,True,False,False
 300,Ball Too Well (Allie’s Version),wr2,Puka Nacua,LAR,True,True,False,False
@@ -304,7 +304,7 @@
 302,Born tua be wild ,wr2,DeVonta Smith,PHI,True,True,False,False
 303,Danny,wr2,Khalil Shakir,BUF,True,True,False,False
 304,Erin M | HearMeowt,wr2,DeVonta Smith,PHI,True,True,False,False
-305,Ethan R,wr2,Jordan Addison,MIN,True,True,False,False
+305,Ethan R,wr2,Jordan Addison,MIN,True,False,False,False
 306,F.O.G.| Joe Pino,wr2,DeVonta Smith,PHI,True,True,False,False
 307,Fantasy Fumble Funnies,wr2,Puka Nacua,LAR,True,True,False,False
 308,Gage ,wr2,Puka Nacua,LAR,True,True,False,False
@@ -415,15 +415,15 @@
 413,Born tua be wild ,wr5,Jahan Dotson,PHI,True,True,False,False
 414,Danny,wr5,Mack Hollins,BUF,True,True,False,False
 415,Erin M | HearMeowt,wr5,Tutu Atwell,LAR,True,True,False,False
-416,Ethan R,wr5,Jalen Nailor,MIN,True,True,False,False
+416,Ethan R,wr5,Jalen Nailor,MIN,True,False,False,False
 417,F.O.G.| Joe Pino,wr5,Van Jefferson,PIT,True,False,False,False
 418,Fantasy Fumble Funnies,wr5,DJ Chark Jr.,LAC,True,False,False,False
-419,Gage ,wr5,Jalen Nailor,MIN,True,True,False,False
+419,Gage ,wr5,Jalen Nailor,MIN,True,False,False,False
 420,Griffin Stanley,wr5,DJ Chark Jr.,LAC,True,False,False,False
 421,Hawk Tua | Brock Michalek ,wr5,John Metchie III,HOU,True,True,False,False
 422,Karrtoons,wr5,Sterling Shepard,TB,True,False,False,False
 423,Liebersquad,wr5,Mack Hollins,BUF,True,True,False,False
-424,Matt’s last chance at fantasy,wr5,Jalen Nailor,MIN,True,True,False,False
+424,Matt’s last chance at fantasy,wr5,Jalen Nailor,MIN,True,False,False,False
 425,Maye Day,wr5,Malik Heath,GB,True,False,False,False
 426,McSRQ,wr5,DJ Chark Jr.,LAC,True,False,False,False
 427,Miami Mike Goes Detroit,wr5,Mack Hollins,BUF,True,True,False,False
@@ -436,9 +436,9 @@
 434,Sarasota Supreme Team ,wr5,Mack Hollins,BUF,True,True,False,False
 435,See deez TDs,wr5,Jahan Dotson,PHI,True,True,False,False
 436,Shaun McElroy,wr5,Mack Hollins,BUF,True,True,False,False
-437,Shot in the Dark / JC,wr5,Jalen Nailor,MIN,True,True,False,False
+437,Shot in the Dark / JC,wr5,Jalen Nailor,MIN,True,False,False,False
 438,Show Me Your TDs!/Richard Silva,wr5,Mack Hollins,BUF,True,True,False,False
-439,Silver Papa,wr5,Jalen Nailor,MIN,True,True,False,False
+439,Silver Papa,wr5,Jalen Nailor,MIN,True,False,False,False
 440,Stat-O-Matic | Chris K,wr5,Mack Hollins,BUF,True,True,False,False
 441,Tanja,wr5,Mack Hollins,BUF,True,True,False,False
 442,Turd Ferguson,wr5,John Metchie III,HOU,True,True,False,False

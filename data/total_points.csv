@@ -1,4 +1,4 @@
-,Manager,Player,Team,Total_WC,Total_Div,Total_Conf,Total_SB,Total Points
+,Manager,Player,Team,Total Wildcard,Total Division,Total Conference,Total Superbowl,Total Points
 0,2-10 Hahaha,Josh Allen,BUF,30.480000000000004,0.0,0.0,0.0,30.480000000000004
 1,A G-Thang,Josh Allen,BUF,30.480000000000004,0.0,0.0,0.0,30.480000000000004
 2,Abarrett35,Josh Allen,BUF,30.480000000000004,0.0,0.0,0.0,30.480000000000004
@@ -71,7 +71,7 @@
 69,Silver Papa,Jared Goff,DET,0.0,0.0,0.0,0.0,0.0
 70,Stat-O-Matic | Chris K,Patrick Mahomes,KC,0.0,0.0,0.0,0.0,0.0
 71,Tanja,Jared Goff,DET,0.0,0.0,0.0,0.0,0.0
-72,Turd Ferguson,Sam Darnold,MIN,0.0,0.0,0.0,0.0,0.0
+72,Turd Ferguson,Sam Darnold,MIN,4.700000000000001,0.0,0.0,0.0,4.700000000000001
 73,Tutt-Nation,Patrick Mahomes,KC,0.0,0.0,0.0,0.0,0.0
 74,2-10 Hahaha,Matt Stafford,LAR,0.0,0.0,0.0,0.0,0.0
 75,A G-Thang,Matt Stafford,LAR,0.0,0.0,0.0,0.0,0.0
@@ -147,8 +147,8 @@
 145,Tanja,James Cook,BUF,20.0,0.0,0.0,0.0,20.0
 146,Turd Ferguson,Derrick Henry,BAL,33.6,0.0,0.0,0.0,33.6
 147,Tutt-Nation,Jahmyr Gibbs,DET,0.0,0.0,0.0,0.0,0.0
-148,2-10 Hahaha,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
-149,A G-Thang,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
+148,2-10 Hahaha,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
+149,A G-Thang,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
 150,Abarrett35,Joe Mixon,HOU,18.900000000000002,0.0,0.0,0.0,18.900000000000002
 151,Alexander’s Raiders,Joe Mixon,HOU,18.900000000000002,0.0,0.0,0.0,18.900000000000002
 152,Ball Too Well (Allie’s Version),Josh Jacobs,GB,19.1,0.0,0.0,0.0,19.1
@@ -158,31 +158,31 @@
 156,Erin M | HearMeowt,Isiah Pacheco,KC,0.0,0.0,0.0,0.0,0.0
 157,Ethan R,Isiah Pacheco,KC,0.0,0.0,0.0,0.0,0.0
 158,F.O.G.| Joe Pino,Isiah Pacheco,KC,0.0,0.0,0.0,0.0,0.0
-159,Fantasy Fumble Funnies,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
+159,Fantasy Fumble Funnies,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
 160,Gage ,Josh Jacobs,GB,19.1,0.0,0.0,0.0,19.1
-161,Griffin Stanley,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
+161,Griffin Stanley,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
 162,Hawk Tua | Brock Michalek ,Josh Jacobs,GB,19.1,0.0,0.0,0.0,19.1
 163,Karrtoons,Isiah Pacheco,KC,0.0,0.0,0.0,0.0,0.0
-164,Liebersquad,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
-165,Matt’s last chance at fantasy,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
+164,Liebersquad,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
+165,Matt’s last chance at fantasy,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
 166,Maye Day,Josh Jacobs,GB,19.1,0.0,0.0,0.0,19.1
 167,McSRQ,Isiah Pacheco,KC,0.0,0.0,0.0,0.0,0.0
 168,Miami Mike Goes Detroit,Josh Jacobs,GB,19.1,0.0,0.0,0.0,19.1
-169,Michaels motivated sea'men,Kyren Williams,LAR,0.0,0.0,0.0,0.0,0.0
-170,Murphys,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
-171,Mythical Hail Marys,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
+169,Michaels motivated sea'men,Kyren Williams,LAR,18.2,0.0,0.0,0.0,18.2
+170,Murphys,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
+171,Mythical Hail Marys,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
 172,New Year |  Same Me | Wesley ,Josh Jacobs,GB,19.1,0.0,0.0,0.0,19.1
 173,Nick Dakuginow,Isiah Pacheco,KC,0.0,0.0,0.0,0.0,0.0
 174,Pirates Life For Me ,Josh Jacobs,GB,19.1,0.0,0.0,0.0,19.1
 175,Sarasota Supreme Team ,Josh Jacobs,GB,19.1,0.0,0.0,0.0,19.1
-176,See deez TDs,Kyren Williams,LAR,0.0,0.0,0.0,0.0,0.0
-177,Shaun McElroy,Kyren Williams,LAR,0.0,0.0,0.0,0.0,0.0
-178,Shot in the Dark / JC,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
+176,See deez TDs,Kyren Williams,LAR,18.2,0.0,0.0,0.0,18.2
+177,Shaun McElroy,Kyren Williams,LAR,18.2,0.0,0.0,0.0,18.2
+178,Shot in the Dark / JC,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
 179,Show Me Your TDs!/Richard Silva,Isiah Pacheco,KC,0.0,0.0,0.0,0.0,0.0
-180,Silver Papa,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
-181,Stat-O-Matic | Chris K,Kyren Williams,LAR,0.0,0.0,0.0,0.0,0.0
-182,Tanja,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
-183,Turd Ferguson,Aaron Jones,MIN,0.0,0.0,0.0,0.0,0.0
+180,Silver Papa,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
+181,Stat-O-Matic | Chris K,Kyren Williams,LAR,18.2,0.0,0.0,0.0,18.2
+182,Tanja,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
+183,Turd Ferguson,Aaron Jones,MIN,9.0,0.0,0.0,0.0,9.0
 184,Tutt-Nation,Josh Jacobs,GB,19.1,0.0,0.0,0.0,19.1
 185,2-10 Hahaha,Rachaad White,TB,3.5000000000000004,0.0,0.0,0.0,3.5000000000000004
 186,A G-Thang,Brian Robinson,WAS,0.0,0.0,0.0,0.0,0.0
@@ -258,7 +258,7 @@
 256,Tanja,Ray Davis,BUF,0.30000000000000004,0.0,0.0,0.0,0.30000000000000004
 257,Turd Ferguson,Jaleel McLaughlin,DEN,0.8,0.0,0.0,0.0,0.8
 258,Tutt-Nation,Craig Reynolds,DET,0.0,0.0,0.0,0.0,0.0
-259,2-10 Hahaha,Justin Jefferson,MIN,0.0,0.0,0.0,0.0,0.0
+259,2-10 Hahaha,Justin Jefferson,MIN,10.8,0.0,0.0,0.0,10.8
 260,A G-Thang,Mike Evans,TB,22.200000000000003,0.0,0.0,0.0,22.200000000000003
 261,Abarrett35,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 262,Alexander’s Raiders,Mike Evans,TB,22.200000000000003,0.0,0.0,0.0,22.200000000000003
@@ -271,12 +271,12 @@
 269,F.O.G.| Joe Pino,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 270,Fantasy Fumble Funnies,A.J. Brown,PHI,2.0,0.0,0.0,0.0,2.0
 271,Gage ,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
-272,Griffin Stanley,Justin Jefferson,MIN,0.0,0.0,0.0,0.0,0.0
+272,Griffin Stanley,Justin Jefferson,MIN,10.8,0.0,0.0,0.0,10.8
 273,Hawk Tua | Brock Michalek ,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 274,Karrtoons,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 275,Liebersquad,A.J. Brown,PHI,2.0,0.0,0.0,0.0,2.0
 276,Matt’s last chance at fantasy,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
-277,Maye Day,Justin Jefferson,MIN,0.0,0.0,0.0,0.0,0.0
+277,Maye Day,Justin Jefferson,MIN,10.8,0.0,0.0,0.0,10.8
 278,McSRQ,Mike Evans,TB,22.200000000000003,0.0,0.0,0.0,22.200000000000003
 279,Miami Mike Goes Detroit,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 280,Michaels motivated sea'men,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
@@ -290,30 +290,30 @@
 288,Shaun McElroy,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 289,Shot in the Dark / JC,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 290,Show Me Your TDs!/Richard Silva,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
-291,Silver Papa,Justin Jefferson,MIN,0.0,0.0,0.0,0.0,0.0
+291,Silver Papa,Justin Jefferson,MIN,10.8,0.0,0.0,0.0,10.8
 292,Stat-O-Matic | Chris K,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 293,Tanja,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 294,Turd Ferguson,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 295,Tutt-Nation,Amon-Ra St. Brown,DET,0.0,0.0,0.0,0.0,0.0
 296,2-10 Hahaha,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
-297,A G-Thang,Jordan Addison,MIN,0.0,0.0,0.0,0.0,0.0
-298,Abarrett35,Puka Nacua,LAR,0.0,0.0,0.0,0.0,0.0
+297,A G-Thang,Jordan Addison,MIN,5.9,0.0,0.0,0.0,5.9
+298,Abarrett35,Puka Nacua,LAR,10.1,0.0,0.0,0.0,10.1
 299,Alexander’s Raiders,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
-300,Ball Too Well (Allie’s Version),Puka Nacua,LAR,0.0,0.0,0.0,0.0,0.0
+300,Ball Too Well (Allie’s Version),Puka Nacua,LAR,10.1,0.0,0.0,0.0,10.1
 301,Blake Rogers,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
 302,Born tua be wild ,DeVonta Smith,PHI,9.5,0.0,0.0,0.0,9.5
 303,Danny,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
 304,Erin M | HearMeowt,DeVonta Smith,PHI,9.5,0.0,0.0,0.0,9.5
-305,Ethan R,Jordan Addison,MIN,0.0,0.0,0.0,0.0,0.0
+305,Ethan R,Jordan Addison,MIN,5.9,0.0,0.0,0.0,5.9
 306,F.O.G.| Joe Pino,DeVonta Smith,PHI,9.5,0.0,0.0,0.0,9.5
-307,Fantasy Fumble Funnies,Puka Nacua,LAR,0.0,0.0,0.0,0.0,0.0
-308,Gage ,Puka Nacua,LAR,0.0,0.0,0.0,0.0,0.0
+307,Fantasy Fumble Funnies,Puka Nacua,LAR,10.1,0.0,0.0,0.0,10.1
+308,Gage ,Puka Nacua,LAR,10.1,0.0,0.0,0.0,10.1
 309,Griffin Stanley,DeVonta Smith,PHI,9.5,0.0,0.0,0.0,9.5
 310,Hawk Tua | Brock Michalek ,Ladd McConkey,LAC,39.7,0.0,0.0,0.0,39.7
 311,Karrtoons,DeVonta Smith,PHI,9.5,0.0,0.0,0.0,9.5
 312,Liebersquad,Ladd McConkey,LAC,39.7,0.0,0.0,0.0,39.7
 313,Matt’s last chance at fantasy,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
-314,Maye Day,Puka Nacua,LAR,0.0,0.0,0.0,0.0,0.0
+314,Maye Day,Puka Nacua,LAR,10.1,0.0,0.0,0.0,10.1
 315,McSRQ,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
 316,Miami Mike Goes Detroit,Ladd McConkey,LAC,39.7,0.0,0.0,0.0,39.7
 317,Michaels motivated sea'men,DeVonta Smith,PHI,9.5,0.0,0.0,0.0,9.5
@@ -325,20 +325,20 @@
 323,Sarasota Supreme Team ,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
 324,See deez TDs,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
 325,Shaun McElroy,DeVonta Smith,PHI,9.5,0.0,0.0,0.0,9.5
-326,Shot in the Dark / JC,Puka Nacua,LAR,0.0,0.0,0.0,0.0,0.0
+326,Shot in the Dark / JC,Puka Nacua,LAR,10.1,0.0,0.0,0.0,10.1
 327,Show Me Your TDs!/Richard Silva,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
-328,Silver Papa,Puka Nacua,LAR,0.0,0.0,0.0,0.0,0.0
-329,Stat-O-Matic | Chris K,Puka Nacua,LAR,0.0,0.0,0.0,0.0,0.0
+328,Silver Papa,Puka Nacua,LAR,10.1,0.0,0.0,0.0,10.1
+329,Stat-O-Matic | Chris K,Puka Nacua,LAR,10.1,0.0,0.0,0.0,10.1
 330,Tanja,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
 331,Turd Ferguson,Khalil Shakir,BUF,12.100000000000001,0.0,0.0,0.0,12.100000000000001
-332,Tutt-Nation,Puka Nacua,LAR,0.0,0.0,0.0,0.0,0.0
+332,Tutt-Nation,Puka Nacua,LAR,10.1,0.0,0.0,0.0,10.1
 333,2-10 Hahaha,Amari Cooper,BUF,2.8,0.0,0.0,0.0,2.8
 334,A G-Thang,Jameson Williams,DET,0.0,0.0,0.0,0.0,0.0
 335,Abarrett35,Nico Collins,HOU,27.200000000000003,0.0,0.0,0.0,27.200000000000003
 336,Alexander’s Raiders,Courtland Sutton,DEN,12.5,0.0,0.0,0.0,12.5
 337,Ball Too Well (Allie’s Version),Nico Collins,HOU,27.200000000000003,0.0,0.0,0.0,27.200000000000003
 338,Blake Rogers,DeAndre Hopkins,KC,0.0,0.0,0.0,0.0,0.0
-339,Born tua be wild ,Cooper Kupp,LAR,0.0,0.0,0.0,0.0,0.0
+339,Born tua be wild ,Cooper Kupp,LAR,3.9000000000000004,0.0,0.0,0.0,3.9000000000000004
 340,Danny,DeAndre Hopkins,KC,0.0,0.0,0.0,0.0,0.0
 341,Erin M | HearMeowt,Jameson Williams,DET,0.0,0.0,0.0,0.0,0.0
 342,Ethan R,Xavier Worthy,KC,0.0,0.0,0.0,0.0,0.0
@@ -346,14 +346,14 @@
 344,Fantasy Fumble Funnies,DeAndre Hopkins,KC,0.0,0.0,0.0,0.0,0.0
 345,Gage ,Jameson Williams,DET,0.0,0.0,0.0,0.0,0.0
 346,Griffin Stanley,Amari Cooper,BUF,2.8,0.0,0.0,0.0,2.8
-347,Hawk Tua | Brock Michalek ,Cooper Kupp,LAR,0.0,0.0,0.0,0.0,0.0
-348,Karrtoons,Cooper Kupp,LAR,0.0,0.0,0.0,0.0,0.0
+347,Hawk Tua | Brock Michalek ,Cooper Kupp,LAR,3.9000000000000004,0.0,0.0,0.0,3.9000000000000004
+348,Karrtoons,Cooper Kupp,LAR,3.9000000000000004,0.0,0.0,0.0,3.9000000000000004
 349,Liebersquad,Jameson Williams,DET,0.0,0.0,0.0,0.0,0.0
 350,Matt’s last chance at fantasy,Xavier Worthy,KC,0.0,0.0,0.0,0.0,0.0
 351,Maye Day,Xavier Worthy,KC,0.0,0.0,0.0,0.0,0.0
 352,McSRQ,Amari Cooper,BUF,2.8,0.0,0.0,0.0,2.8
 353,Miami Mike Goes Detroit,Jameson Williams,DET,0.0,0.0,0.0,0.0,0.0
-354,Michaels motivated sea'men,Cooper Kupp,LAR,0.0,0.0,0.0,0.0,0.0
+354,Michaels motivated sea'men,Cooper Kupp,LAR,3.9000000000000004,0.0,0.0,0.0,3.9000000000000004
 355,Murphys,Jameson Williams,DET,0.0,0.0,0.0,0.0,0.0
 356,Mythical Hail Marys,DeAndre Hopkins,KC,0.0,0.0,0.0,0.0,0.0
 357,New Year |  Same Me | Wesley ,Amari Cooper,BUF,2.8,0.0,0.0,0.0,2.8
@@ -384,7 +384,7 @@
 382,Gage ,Marvin Mims,DEN,0.0,0.0,0.0,0.0,0.0
 383,Griffin Stanley,Quenton Johnston,LAC,0.0,0.0,0.0,0.0,0.0
 384,Hawk Tua | Brock Michalek ,Olamide Zaccheaus,WAS,4.9,0.0,0.0,0.0,4.9
-385,Karrtoons,Demarcus Robinson,LAR,0.0,0.0,0.0,0.0,0.0
+385,Karrtoons,Demarcus Robinson,LAR,3.3000000000000003,0.0,0.0,0.0,3.3000000000000003
 386,Liebersquad,Jalen McMillan,TB,6.1000000000000005,0.0,0.0,0.0,6.1000000000000005
 387,Matt’s last chance at fantasy,Keon Coleman,BUF,3.5,0.0,0.0,0.0,3.5
 388,Maye Day,Romeo Dobbs,GB,0.0,0.0,0.0,0.0,0.0
@@ -415,15 +415,15 @@
 413,Born tua be wild ,Jahan Dotson,PHI,8.1,0.0,0.0,0.0,8.1
 414,Danny,Mack Hollins,BUF,2.9000000000000004,0.0,0.0,0.0,2.9000000000000004
 415,Erin M | HearMeowt,Tutu Atwell,LAR,0.0,0.0,0.0,0.0,0.0
-416,Ethan R,Jalen Nailor,MIN,0.0,0.0,0.0,0.0,0.0
+416,Ethan R,Jalen Nailor,MIN,6.300000000000001,0.0,0.0,0.0,6.300000000000001
 417,F.O.G.| Joe Pino,Van Jefferson,PIT,11.7,0.0,0.0,0.0,11.7
 418,Fantasy Fumble Funnies,DJ Chark Jr.,LAC,0.0,0.0,0.0,0.0,0.0
-419,Gage ,Jalen Nailor,MIN,0.0,0.0,0.0,0.0,0.0
+419,Gage ,Jalen Nailor,MIN,6.300000000000001,0.0,0.0,0.0,6.300000000000001
 420,Griffin Stanley,DJ Chark Jr.,LAC,0.0,0.0,0.0,0.0,0.0
 421,Hawk Tua | Brock Michalek ,John Metchie III,HOU,4.800000000000001,0.0,0.0,0.0,4.800000000000001
 422,Karrtoons,Sterling Shepard,TB,0.0,0.0,0.0,0.0,0.0
 423,Liebersquad,Mack Hollins,BUF,2.9000000000000004,0.0,0.0,0.0,2.9000000000000004
-424,Matt’s last chance at fantasy,Jalen Nailor,MIN,0.0,0.0,0.0,0.0,0.0
+424,Matt’s last chance at fantasy,Jalen Nailor,MIN,6.300000000000001,0.0,0.0,0.0,6.300000000000001
 425,Maye Day,Malik Heath,GB,0.0,0.0,0.0,0.0,0.0
 426,McSRQ,DJ Chark Jr.,LAC,0.0,0.0,0.0,0.0,0.0
 427,Miami Mike Goes Detroit,Mack Hollins,BUF,2.9000000000000004,0.0,0.0,0.0,2.9000000000000004
@@ -436,9 +436,9 @@
 434,Sarasota Supreme Team ,Mack Hollins,BUF,2.9000000000000004,0.0,0.0,0.0,2.9000000000000004
 435,See deez TDs,Jahan Dotson,PHI,8.1,0.0,0.0,0.0,8.1
 436,Shaun McElroy,Mack Hollins,BUF,2.9000000000000004,0.0,0.0,0.0,2.9000000000000004
-437,Shot in the Dark / JC,Jalen Nailor,MIN,0.0,0.0,0.0,0.0,0.0
+437,Shot in the Dark / JC,Jalen Nailor,MIN,6.300000000000001,0.0,0.0,0.0,6.300000000000001
 438,Show Me Your TDs!/Richard Silva,Mack Hollins,BUF,2.9000000000000004,0.0,0.0,0.0,2.9000000000000004
-439,Silver Papa,Jalen Nailor,MIN,0.0,0.0,0.0,0.0,0.0
+439,Silver Papa,Jalen Nailor,MIN,6.300000000000001,0.0,0.0,0.0,6.300000000000001
 440,Stat-O-Matic | Chris K,Mack Hollins,BUF,2.9000000000000004,0.0,0.0,0.0,2.9000000000000004
 441,Tanja,Mack Hollins,BUF,2.9000000000000004,0.0,0.0,0.0,2.9000000000000004
 442,Turd Ferguson,John Metchie III,HOU,4.800000000000001,0.0,0.0,0.0,4.800000000000001
