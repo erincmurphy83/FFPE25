@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-st.header("**Individual Team**", divider='gray')
+st.header("**Individual Team View**", divider='gray')
 
 df = pd.read_csv("data/total_points.csv", index_col=[0])
 
