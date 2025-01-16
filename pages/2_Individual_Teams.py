@@ -16,7 +16,7 @@ with col2:
     st.text('Total Points: ')
     df2 = df.groupby(['Manager']).sum('Total Points').reset_index() 
     st.metric("Total Points", 
-              df2[df2["Manager"] == option]["Total Points"].values[0],
+              round(df2[df2["Manager"] == option]["Total Points"].values[0], 2),
               label_visibility="collapsed")
 
 st.divider()
