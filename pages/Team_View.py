@@ -26,4 +26,11 @@ df1 = df[df["Manager"] == option].loc[:, df.columns != 'Manager']
 col_order = ['Team', 'Player', 'Total Points', 'Total Wildcard', 'Total Division', 'Total Conference', 'Total Superbowl']
 df1 = df1[col_order]
 
-st.dataframe(df1, hide_index=True, height=550, use_container_width=True)
+remaining_teams = ['KC', 'WAS', 'BUF', 'PHI']
+
+def color_coding(row):
+    return ['background-color:#1fd655'] * len(
+        row) if row.Team in remaining_teams else ['background-color:#FF474C'] * len(row)
+
+df1 = df[df["Manager"] == option].loc[:, df.columns != 'Manager']
+st.dataframe(df1.style.apply(color_coding, axis=1), hide_index=True, height=550, use_container_width=True)
