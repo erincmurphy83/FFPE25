@@ -21,7 +21,7 @@ with col2:
 
 st.divider()
 
-remaining_teams = ['KC', 'WAS', 'BUF', 'PHI']
+remaining_teams = ['KC', 'PHI']
 
 def color_coding(row):
     return ['background-color:#1fd655'] * len(
