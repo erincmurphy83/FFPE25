@@ -21,11 +21,10 @@ with col2:
 
 st.divider()
 
-remaining_teams = ['KC', 'PHI']
+remaining_teams = ['PHI']
 
 def color_coding(row):
-    return ['background-color:#1fd655'] * len(
-        row) if row.Team in remaining_teams else ['background-color:#FF474C'] * len(row)
+    return ['background-color:#1fd655'] * len(row) if row.Team in remaining_teams else ['background-color:#FF474C'] * len(row)
 
 df1 = df[df["Manager"] == option].loc[:, df.columns != 'Manager']
 
